@@ -81,7 +81,7 @@ Johan"
 
 UPDATE Dec 8 2009:
 
-You might try out this Perl script parse_\diva_out.pl to get you going on the DIVA output. But please read the Disclaimer in the script file!
+You might try out this Perl script parse_diva_out.pl to get you going on the DIVA output. But please read the Disclaimer in the script file!
 
 
 
